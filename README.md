@@ -3,21 +3,22 @@ my sloppy dotfiles for bspwm
 
 # required programs
 
-bspwm
-sxhkd
-alacritty
-picom
-dunst
-pywal16 
-polybar
-mpris and playerctl
-pamixer
-flameshot
-rofi
-greenclip
-bemoji
-rofi-power-menu
-dmenu-bluetooth (optional, needed if you use bluetooth)
+bspwm  
+sxhkd  
+alacritty  
+picom  
+dunst  
+pywal16  
+polybar (polybarFull if on nix)  
+mpris and playerctl  
+zscroll  
+pamixer  
+flameshot  
+rofi  
+greenclip  
+bemoji  
+rofi-power-menu  
+dmenu-bluetooth (optional, needed if you use bluetooth)  
 
 greyscale color scheme, pywal templates for vesktop and customized pywal themes for rofi and dwm are included.
 
