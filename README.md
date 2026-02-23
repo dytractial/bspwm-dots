@@ -1,2 +1,25 @@
 # bspwm-dots
-dotfiles for bspwm
+my sloppy dotfiles for bspwm
+
+# required programs
+
+bspwm
+sxhkd
+alacritty
+picom
+dunst
+pywal16 
+polybar
+mpris and playerctl
+pamixer
+flameshot
+rofi
+greenclip
+bemoji
+rofi-power-menu
+dmenu-bluetooth (optional, needed if you use bluetooth)
+
+greyscale color scheme, pywal templates for vesktop and customized pywal themes for rofi and dwm are included.
+
+shell scripts are customized for my nixos build, use your own path for them or the standard path for bash if
+you're on a regular distro like arch.

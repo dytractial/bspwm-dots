@@ -1,0 +1,14 @@
+#!/bin/sh
+
+#Autostart
+sxhkd &
+autorandr --change &
+nitrogen --restore &
+picom -b &
+polybar top &
+polybar main &
+greenclip daemon &
+# nm-applet &
+# volctl &
+# blueman-applet &
+xscreensaver 
